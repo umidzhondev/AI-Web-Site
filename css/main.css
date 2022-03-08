@@ -69,7 +69,7 @@ i {
   align-items: center;
   justify-content: space-between;
   width: 60%;
-  transition: left 1s cubic-bezier(.25, .46, .45, .94);
+  transition: left .7s cubic-bezier(.25, .46, .45, .94);
 }
 
 .nav {
