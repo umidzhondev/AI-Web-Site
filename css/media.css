@@ -357,11 +357,11 @@
     }
 
     .main__title {
-        font-size: 22px;
+        font-size: 24px;
     }
 
     .main__description {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     /** About  */
@@ -442,7 +442,7 @@
 
     .main__description {
         margin-bottom: 30px;
-        font-size: 15px;
+        font-size: 16px;
     }
 
     .main__buttons {
@@ -479,15 +479,15 @@
     }
 
     .services__card {
-        padding: 15px 10px;
+        padding: 15px 20px;
     }
 
     .services__card-title {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     .services__card-description {
-        font-size: 14px;
+        font-size: 15px;
     }
 
     /** Blog */
